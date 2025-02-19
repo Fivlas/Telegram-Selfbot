@@ -1,0 +1,21 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "input": "^1.0.1",
+    "npm": "^11.0.0",
+    "openai": "^4.80.1",
+    "telegram": "^2.26.16"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.10"
+  }
+}
